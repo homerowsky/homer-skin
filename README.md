@@ -10,5 +10,6 @@ Lista skinów, których używam do grania w osu
 # [# WhiteCat (1.0) #](https://skins.osuck.net/index.php?newsid=1107) 
 ![](https://skins.osuck.net/uploads/posts/2019-12/1576848827_3.jpg)
 
-
+# [osu! Default Skin Improved](https://skins.osuck.net/index.php?newsid=1286) 
+![](https://skins.osuck.net/uploads/posts/2020-03/1583321376_screenshot8139.jpg)
 
